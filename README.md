@@ -46,8 +46,6 @@ mern-ecommerce
 ### 1. Clone the repository
 git clone https://github.com/Khanishk18/mern-ecommerce.git
 
-cd mern-ecommerce
-
 
 ### 2. Start the Backend
 cd server
