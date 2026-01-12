@@ -75,5 +75,5 @@ Full Stack MERN Developer
 ## ⭐ If you like this project
 Give it a ⭐ on GitHub 😊
 
-## 📂 Project Structure
+
 
